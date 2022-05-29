@@ -1,0 +1,2 @@
+# File-System-Simulator-Protection-layer-
+Build up a protection layer over the simple file system you’ve already created on assignment 3; the protection module will be responsible of the following activities: 1- Creating Users 2- Assign capabilities to users: a. Each folder will have two capabilities Create/Delete After running the application a default user will be logged in to the system this user is called “admin” with the password “admin”, the commands in the table below will be added to the list of the commands from assignment 3:
